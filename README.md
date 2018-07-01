@@ -1,2 +1,2 @@
-# rshiny-whatsapp-text-analytics
-Rshiny tool to analyse text conversation between participants
+# Whatsapp Text Analytics
+A Rshiny tool to analyse text conversation between participants
